@@ -5,3 +5,4 @@
 
 ## Process Extracting Documents
 ![Group 9](https://github.com/Ghifariezra/computing-pararelisme-extracting-multiple-pdfs/assets/127650295/e62761b6-642d-41b2-996a-31edd951ea00)
+ 
