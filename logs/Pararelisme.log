@@ -1,0 +1,235 @@
+INFO:root:      Words    Regulations
+0    sanksi    Peraturan 2
+1    sanksi  Peraturan 126
+2    sanksi   Peraturan 99
+3    sanksi   Peraturan 56
+4    sanksi    Peraturan 4
+..      ...            ...
+99   sanksi   Peraturan 03
+100  sanksi   Peraturan 10
+101  sanksi    Peraturan 4
+102  sanksi   Peraturan 68
+103  sanksi   Peraturan 03
+
+[104 rows x 2 columns]
+INFO:root:Total Time: 6754.120881557465
+root:PID: 4364
+INFO:root:PID: 4364 | Time: 72.78358387947083
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 22.716408491134644
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 19.58355712890625
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 22.54525637626648
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 369.592365026474
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 139.34446001052856
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 7.814692974090576
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 16.903019428253174
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 89.39480662345886
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 132.86896634101868
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 27.729056358337402
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 18.26832938194275
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 17.2736394405365
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 44.48032188415527
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 17.456596851348877
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 31.439152479171753
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 22.954548120498657
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 28.566818475723267
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 79.47009801864624
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 26.624659776687622
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 10.074251413345337
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 55.280827045440674
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 53.41672968864441
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 115.55678200721741
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 10.926427364349365
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 19.351752758026123
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 108.77760338783264
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 45.70608568191528
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 149.176908493042
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 54.04709339141846
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 11.213672637939453
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 26.556252479553223
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 18.737561225891113
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 27.823406457901
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 15.378533601760864
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 19.85030722618103
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 78.45303559303284
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 26.366883039474487
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 11.63828182220459
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 51.68492126464844
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 20.88811445236206
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 15.634938478469849
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 38.73702144622803
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 28.12347912788391
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 168.93719267845154
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 15.950538873672485
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 13.977985382080078
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 255.43131637573242
+INFO:root:PID: 4364
+INFO:root:INFO:root:PID: 5320 | Time: 552.8188989162445
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 41.93969941139221
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 45.914114236831665
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 8.407934427261353
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 24.956485986709595
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 56.79838466644287
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 89.326491355896
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 7.087197303771973
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 39.45639634132385
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 50.70522689819336
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 26.914137601852417
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 26.75425887107849
+INFO:root:PID: 5320ININFO:root:PID: 5320 | Time: 21.592529773712158
+INFO:root:PID: 532INFINFO:root:PID: 5320 | Time: 26.16058874130249
+INFO:root:PID: 5320ININFO:root:PID: 5320 | Time: 41.67820405960083
+INFO:root:PID: 5320
+IINFO:root:PID: 5320 | Time: 24.9263699054718
+INFO:root:PID: 5320
+IINFO:root:PID: 4364 | Time: 103.82264590263367
+INFO:root:PID: 4364
+INFO:root:PID: 1668 | Time: 664.035480260849
+INFO:root:PID: 1668
+INFO:root:PID: 1668 | Time: 23.792306661605835
+INFO:root:PID: 1668
+INFO:root:PID: 1668 | Time: 30.881130933761597
+INFO:root:PID: 1668
+ININFO:root:PID: 4364 | Time: 555.0129532814026
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 70.68913125991821
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 80.94737648963928
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 32.78276228904724
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 20.86439085006714
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 18.069072723388672
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 115.3821005821228
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 102.67029929161072
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 31.07549238204956
+INFO:root:PID: 4364
+INFINFO:root:PID: 5320 | Time: 497.1413013935089
+INFO:root:PID: 5320ININFO:root:PID: 5320 | Time: 253.84609508514404
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 105.10449981689453
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 14.253844499588013
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 96.76070642471313
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 30.818312168121338
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 19.30208396911621
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 72.72213172912598
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 31.2395339012146
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 20.68122363090515
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 19.077160835266113
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 12.1043221950531
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 14.436622858047485
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 32.91529726982117
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 8.696630239486694
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 38.83695888519287
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 5.89788818359375
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 13.760778188705444
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 16.265907049179077
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 18.79003071784973
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 16.215453147888184
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 51.64354991912842
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 62.68687129020691
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 16.431561946868896
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 44.349116563797
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 11.56909441947937
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 20.795981645584106
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 6.506203889846802
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 13.160788774490356
+INFO:root:PID: 5320
+INFO:root:PID: 5320 | Time: 8.677758932113647
+INFO:root:PID: 5320
+IINFO:root:PID: 4364 | Time: 52.99146389961243
+INFO:root:PID: 4364
+INFO:root:PID: 4364 | Time: 37.305020809173584
+INFO:root:PID: 4364
+INFO:root:PID: 5320 | Time: 32.05352807044983
+INFO:root:{'Words': ['berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'berlaku sejak', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi', 'sanksi'], 'Regulations': ['Peraturan 00', 'Peraturan 133', 'Peraturan 06', 'Peraturan 45', 'Peraturan 05', 'Peraturan 4', 'Peraturan 12', 'Peraturan 25', 'Peraturan 2', 'Peraturan 04', 'Peraturan 5', 'Peraturan 9', 'Peraturan 3', 'Peraturan 3']}
+INFO:root:{'Words': 'sanksi', 'Regulations': ['Peraturan 00', 'Peraturan 133', 'Peraturan 06', 'Peraturan 45', 'Peraturan 05', 'Peraturan 4', 'Peraturan 12', 'Peraturan 25', 'Peraturan 2', 'Peraturan 04', 'Peraturan 5', 'Peraturan 9', 'Peraturan 3', 'Peraturan 3']}
+18', 'Peraturan 415', 'Peraturan 31', 'Peraturan 7', 'Peraturan 3']}
+INFO:root:{'Words': 'sanksi', 'Regulations': ['Peraturan 94', 'Peraturan 84', 'Peraturan 4', 'Peraturan 45', 'Peraturan 25', 'Peraturan 7', 'Peraturan 4', 'Peraturan 28', 'Peraturan 24', 'Peraturan 18', 'Peraturan 0', 'Peraturan 495', 'Peraturan 18', 'Peraturan 415', 'Peraturan 31', 'Peraturan 7', 'Peraturan 3']}
