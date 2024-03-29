@@ -1,8 +1,10 @@
 # computing-pararelisme-extracting-multiple-pdfs
 
 **Extracting multiple Documents simultaneously using Computing Parallelism technique**
-![Group 10-min](https://github.com/Ghifariezra/computing-pararelisme-extracting-multiple-pdfs/assets/127650295/3e5dafeb-3374-409c-825f-7d0ba9a34fee)
+![Group 10](https://github.com/Ghifariezra/computing-pararelisme-extracting-multiple-pdfs/assets/127650295/92dbebef-c91a-4fc4-95b4-2d4f188958f1)
+
 
 
 **Process Extracting Documents**
-![Group 9 (1)-min](https://github.com/Ghifariezra/computing-pararelisme-extracting-multiple-pdfs/assets/127650295/0ceb31c8-50c7-46fb-8a2b-a33ffdb07f7a)
+![Group 9](https://github.com/Ghifariezra/computing-pararelisme-extracting-multiple-pdfs/assets/127650295/e62761b6-642d-41b2-996a-31edd951ea00)
+
